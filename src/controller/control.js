@@ -114,3 +114,8 @@ const getUrl = async (req, res) => {
 };
 
 module.exports = { shortUrl, getUrl };
+
+
+const data1 =  model.create(data)
+const data2 = model.find()
+
