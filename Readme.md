@@ -2,13 +2,7 @@
 # TECHNITIUM BACKEND
 
 ## URL-Shortener/group3
-## Team Members
-
-- Saurabh Digambar
-- Chandrakant Tiwari
-- Jasmeen Desai
-- Kashi Sharma
-## Scalable URL Shortner Project Requirement
+### Project Requirement
 
 ## Phase I
 
